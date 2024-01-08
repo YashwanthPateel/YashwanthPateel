@@ -4,3 +4,4 @@
 - **Filing Date:** 31/08/2023
 - **Issue Date:** 08/09/2023
 - **Link to Patent:** https://ipindia.gov.in/
+- The official patent page which includes the details can be found in this repository.
